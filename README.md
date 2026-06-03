@@ -1,6 +1,15 @@
 <h1 align="center">Olá 👋, sou o Kauê</h1>
-<h3 align="center">Um estudante apaixonado por Ciência da Computação, focado em Algoritmos e Lógica</h3>
-<p align="center"><strong>Atualmente focado em ➡️ Dominar os Fundamentos de C++ e Lógica</strong></p>
+
+```markdown
+<div align="center">
+
+# `Sobre Mim`
+
+## Um estudante apaixonado por Ciência da Computação, focado em Algoritmos e Lógica
+
+### 🎯 **Atualmente focado em:** Dominar os Fundamentos de C++ e Lógica
+
+</div>
 
 <br>
 
