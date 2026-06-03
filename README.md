@@ -1,15 +1,7 @@
 <h1 align="center">Olá 👋, sou o Kauê</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F7006F&center=true&vCenter=true&width=500&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Focado+em+Algoritmos+e+L%C3%B3gica;Dominando+C%2B%2B+e+Estruturas+de+Dados" alt="Texto Animado" />
-</p>
-
-<br>
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=kaue9812&theme=radical&no-frame=true&margin-w=15" alt="Troféus do Kauê" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Focado+em+Algoritmos+e+L%C3%B3gica;Dominando+C%2B%2B+e+Estruturas+de+Dados" alt="Texto Animado" />
 </p>
 
 <br>
@@ -45,10 +37,10 @@
 
 <h3 align="center">📊 Minhas Estatísticas:</h3>
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=kaue9812&show_icons=true&locale=pt-br&theme=radical" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaue9812&layout=compact&langs_count=5&theme=radical" alt="Linguagens mais usadas" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=kaue9812&show_icons=true&locale=pt-br&theme=dark" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaue9812&layout=compact&langs_count=5&theme=dark" alt="Linguagens mais usadas" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaue9812&theme=radical&locale=pt_BR" alt="Sequência de Commits" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaue9812&theme=dark&locale=pt_BR" alt="Sequência de Commits" />
 </p>
