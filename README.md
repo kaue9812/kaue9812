@@ -40,7 +40,3 @@
   <img src="https://github-readme-stats-fast.vercel.app/api?username=kaue9812&show_icons=true&locale=pt-br&theme=dark" alt="Estatísticas do GitHub" height="150"/>
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=kaue9812&layout=compact&langs_count=5&theme=dark" alt="Linguagens mais usadas" height="150"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaue9812&theme=dark&locale=pt_BR" alt="Sequência de Commits" />
-</p>
